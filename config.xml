@@ -1,0 +1,5 @@
+<universal-links>
+    <host name="example.com">
+        <path url="/some/path" />
+    </host>
+</universal-links>
