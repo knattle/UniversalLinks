@@ -1,5 +1,5 @@
 <universal-links>
-    <host name="https://knattle.github.io">
+    <host name="://knattle.github.io" scheme="https" >
         <path url="/github.io/" />
     </host>
 </universal-links>
