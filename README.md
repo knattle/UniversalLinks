@@ -9,3 +9,4 @@ Die Implementierung läuft dabei
 Literatur: 
 https://www.adjust.com/blog/universal-links-vs-deep-links/
 https://developer.apple.com/library/content/documentation/General/Conceptual/AppSearch/UniversalLinks.html
+https://github.com/nordnet/cordova-universal-links-plugin
