@@ -1,5 +1,5 @@
 <universal-links>
-    <host name="example.com">
-        <path url="/some/path" />
+    <host name="https://knattle.github.io">
+        <path url="/github.io/" />
     </host>
 </universal-links>
